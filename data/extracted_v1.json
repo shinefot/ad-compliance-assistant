@@ -1,0 +1,1497 @@
+[
+  {
+    "ad_number": "2023-1041",
+    "issuing_authority": "FAA",
+    "effective_date": null,
+    "supersedes": [],
+    "applicable_models": [
+      "737-600",
+      "737-700",
+      "737-800"
+    ],
+    "serial_ranges": [],
+    "engine_models": [],
+    "applicability_by_reference": "Boeing Alert Service Bulletin 737\u201353A1217, Revision 1, dated September 8, 2022",
+    "compliance_time": "At the applicable times specified in Tables 3 through 6 of Boeing Alert Service Bulletin 737\u201353A1217, Revision 1, dated September 8, 2022",
+    "required_action": "For Group 1 through 3, Configuration 3 airplanes, perform repetitive internal and external detailed inspections, low frequency eddy current (LFEC), and medium frequency eddy current (MFEC) inspections for cracks of the skin repair of S\u201317 at STA 360 to STA 380 and STA 888 to STA 907, and accomplish corrective actions if necessary.",
+    "source_pages": [
+      1,
+      2,
+      3
+    ],
+    "extraction_notes": "This is a Notice of Proposed Rulemaking (NPRM), not a final AD. The AD number format appears to be the Docket number FAA\u20132023\u20131041 rather than a traditional AD number. The applicability is limited to Group 1 through 3, Configuration 3 airplanes as identified in the referenced service bulletin. Serial number ranges are not specified in the document.",
+    "source_file": "faa/2023-11199.pdf"
+  },
+  {
+    "ad_number": "2023-13-12",
+    "issuing_authority": "FAA",
+    "effective_date": "2023-09-05",
+    "supersedes": [],
+    "applicable_models": [
+      "737-100",
+      "737-200",
+      "737-200C",
+      "737-300",
+      "737-400",
+      "737-500",
+      "737-600",
+      "737-700",
+      "737-700C",
+      "737-800",
+      "737-900",
+      "737-900ER",
+      "757-200",
+      "757-200PF",
+      "757-200CB",
+      "757-300",
+      "767-200",
+      "767-300",
+      "767-300F",
+      "767-400ER"
+    ],
+    "serial_ranges": [],
+    "engine_models": [],
+    "applicability_by_reference": null,
+    "compliance_time": "Within 30 days after effective date for inspection; replacement compliance times vary by manufacturing date: before further flight or within 15 years for 2008 or earlier; within 12 months for 2009-2010; within 24 months for 2011-2013; before exceeding 10 years or within 24 months (whichever later) for 2014 or later",
+    "required_action": "Inspect passenger chemical oxygen generators (part numbers 117080-02, 117080-03, 117080-04) to determine date of manufacture within 30 days. Replace affected generators with serviceable units per specified compliance times based on manufacturing date. Limit installation of non-serviceable units.",
+    "source_pages": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "extraction_notes": null,
+    "source_file": "faa/2023-16121.pdf"
+  },
+  {
+    "ad_number": "2023-13-05",
+    "issuing_authority": "FAA",
+    "effective_date": "2023-10-27",
+    "supersedes": [],
+    "applicable_models": [
+      "737-600",
+      "737-700",
+      "737-700C",
+      "737-800",
+      "737-900",
+      "737-900ER"
+    ],
+    "serial_ranges": [],
+    "engine_models": [],
+    "applicability_by_reference": null,
+    "compliance_time": "At the applicable times specified in the Compliance paragraph of Boeing Special Attention Requirements Bulletin 737\u201353\u20131399 RB, Revision 1, dated March 14, 2023",
+    "required_action": "Perform general visual inspection for any repair, buckle, wrinkle, bulge, and cracking at skin lap splices at stringers S\u20134, S\u201314, and S\u201324; perform repetitive detailed inspections for buckling, wrinkling, or bulging at unrepaired areas of affected lap splices and repair; perform repetitive detailed, high frequency eddy current, and ultrasonic inspections for cracking at affected locations and repair; and perform alternative inspections and on-condition actions as specified in Boeing Special Attention Requirements Bulletin 737\u201353\u20131399 RB, Revision 1, dated March 14, 2023.",
+    "source_pages": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "extraction_notes": "The AD references Boeing Special Attention Requirements Bulletin 737\u201353\u20131399 RB, Revision 1, dated March 14, 2023, for specific compliance times and detailed accomplishment instructions. The applicability section specifies that S\u20134R applies only to 737\u2013800 Boeing Converted Freighter airplanes, while S\u201324R applies only to 737\u2013600, \u2013700, \u2013700C, \u2013800, \u2013900, and \u2013900ER series airplanes. However, the AD applicability section (c)(1) states the AD applies to all six models listed. The service information section clarifies the model-specific applicability for each stringer location.",
+    "source_file": "faa/2023-20503.pdf"
+  },
+  {
+    "ad_number": "2024-01-06",
+    "issuing_authority": "FAA",
+    "effective_date": "2024-03-07",
+    "supersedes": [],
+    "applicable_models": [
+      "737-600",
+      "737-700",
+      "737-800"
+    ],
+    "serial_ranges": [],
+    "engine_models": [],
+    "applicability_by_reference": "Boeing Alert Service Bulletin 737\u201353A1217, Revision 1, dated September 8, 2022",
+    "compliance_time": "At the applicable times specified in Tables 3 through 6 of paragraph 1.E., \"Compliance,\" of Boeing Alert Service Bulletin 737\u201353A1217, Revision 1, dated September 8, 2022",
+    "required_action": "Perform repetitive internal and external detailed inspections, low frequency eddy current (LFEC) inspections, and medium frequency eddy current (MFEC) inspections for cracks of the skin repair at stringer S\u201317, station 360 to 380 and station 888 to 907, left and right sides. Perform corrective actions including repair if necessary.",
+    "source_pages": [
+      3,
+      4
+    ],
+    "extraction_notes": null,
+    "source_file": "faa/2024-01968.pdf"
+  },
+  {
+    "ad_number": "2024-1693",
+    "issuing_authority": "FAA",
+    "effective_date": null,
+    "supersedes": [],
+    "applicable_models": [
+      "737-300",
+      "737-400",
+      "737-800"
+    ],
+    "serial_ranges": [],
+    "engine_models": [],
+    "applicability_by_reference": "Boeing Alert Requirements Bulletin 737\u201325A1873 RB, dated August 25, 2023; or Boeing Alert Requirements Bulletin 737\u201325A1876 RB, dated September 1, 2023",
+    "compliance_time": "At the applicable times specified in the Compliance paragraph of Boeing Alert Requirements Bulletin 737\u201325A1873 RB (for 737-300 and -400) or Boeing Alert Requirements Bulletin 737\u201325A1876 RB (for 737-800), dated August 25, 2023 and September 1, 2023 respectively",
+    "required_action": "Inspect certain galleys to determine part numbers, inspect for existing galley modification placard and marking, and replace wire bundle spiral wrap sleeving with Boeing Material Specification 13\u201381 wire protective sleeving as applicable. Prohibit installation of galley wire bundle spiral wrap made of polyethylene with self-wrapping sleeve.",
+    "source_pages": [
+      1,
+      2,
+      3
+    ],
+    "extraction_notes": "This is a Notice of Proposed Rulemaking (NPRM), not a final AD. The AD number format appears non-standard (2024-1693 rather than typical YYYY-MM-DD format); extracted as shown in the docket header. Compliance times are defined by reference to the service bulletins' Compliance paragraphs, with an exception that the effective date of this AD should be used instead of the original issue date of the bulletins.",
+    "source_file": "faa/2024-13490.pdf"
+  },
+  {
+    "ad_number": "2024-2315",
+    "issuing_authority": "FAA",
+    "effective_date": null,
+    "supersedes": [
+      "2019-11-06"
+    ],
+    "applicable_models": [
+      "737-800"
+    ],
+    "serial_ranges": [],
+    "engine_models": [],
+    "applicability_by_reference": "Boeing 737\u2013800BCF Airworthiness Limitations, D140A006, Revision L, dated April 1, 2021 (Section 5.2.1, Group A); Boeing Alert Service Bulletin 737\u201353A1368, dated February 27, 2018",
+    "compliance_time": "At the compliance time specified in paragraph (g)(1)(i), (ii), (iii), or (iv), whichever occurs last: before the airplane accumulates 17,000 total flight cycles, or within 5,000 flight cycles after July 17, 2019, or within 12 months after the effective date of this AD, or within 1,000 flight cycles after the effective date of this AD",
+    "required_action": "Perform an ultrasonic inspection of the skin under the drag link assembly in accordance with Boeing Alert Service Bulletin 737\u201353A1368, dated February 27, 2018, and do all applicable on-condition actions for the inspection at the times specified in the service bulletin.",
+    "source_pages": [
+      1,
+      2,
+      3
+    ],
+    "extraction_notes": "This is a Notice of Proposed Rulemaking (NPRM), not a final AD. The AD number format appears to be the docket number FAA\u20132024\u20132315 rather than a standard AD number. The applicability is limited to Model 737\u2013800 series airplanes converted to a freighter configuration using Boeing Drawing 800A0003 before April 1, 2021, and identified as Group A in the referenced Airworthiness Limitations document. The compliance time has multiple alternative thresholds (whichever occurs last). This AD replaces the initial ultrasonic inspections required by paragraph (g) of AD 2019\u201311\u201306 for these specific airplanes only.",
+    "source_file": "faa/2024-21813.pdf"
+  },
+  {
+    "ad_number": "2024-19-01",
+    "issuing_authority": "FAA",
+    "effective_date": "2024-11-15",
+    "supersedes": [],
+    "applicable_models": [
+      "747-100",
+      "747-100B",
+      "747-100B SUD",
+      "747-200B",
+      "747-200C",
+      "747-200F",
+      "747-300",
+      "747-400",
+      "747-400D",
+      "747-400F",
+      "747SP",
+      "747SR"
+    ],
+    "serial_ranges": [],
+    "engine_models": [],
+    "applicability_by_reference": "Boeing Alert Requirements Bulletin 747\u201353A2912 RB, dated April 5, 2024",
+    "compliance_time": "At the applicable times specified in the Compliance paragraph of Boeing Alert Requirements Bulletin 747\u201353A2912 RB, dated April 5, 2024",
+    "required_action": "Detect and correct cracking of the upper fastener row of the fuselage skin lap splice between STAs 1350 and 1480 at stringers S\u201323L and S\u201323R by performing all applicable actions identified in Boeing Alert Requirements Bulletin 747\u201353A2912 RB, dated April 5, 2024.",
+    "source_pages": [
+      1
+    ],
+    "extraction_notes": null,
+    "source_file": "faa/2024-23541.pdf"
+  },
+  {
+    "ad_number": "2025-05-16",
+    "issuing_authority": "FAA",
+    "effective_date": "2025-04-22",
+    "supersedes": [
+      "2019-11-06"
+    ],
+    "applicable_models": [
+      "737-800"
+    ],
+    "serial_ranges": [],
+    "engine_models": [],
+    "applicability_by_reference": "Boeing 737-800BCF Airworthiness Limitations, D140A006, Revision L, dated April 1, 2021 (Section 5.2.1 identifies Group A airplanes)",
+    "compliance_time": "At the compliance time specified in paragraph (g)(1)(i), (ii), (iii), or (iv), whichever occurs last: before the airplane accumulates 17,000 total flight cycles, or within 5,000 flight cycles after July 17, 2019, or within 12 months after the effective date of this AD, or within 1,000 flight cycles after the effective date of this AD. For Group 1 Configuration 1, 3, or 4: before 30,000 total flight cycles, or within 5,000 flight cycles after July 17, 2019, or within 12 months after the effective date, or within 1,000 flight cycles after the effective date.",
+    "required_action": "Perform an ultrasonic inspection of the skin under the drag link assembly (Part 2) or repair tripler under the drag link assembly (Part 6) in accordance with Boeing Alert Service Bulletin 737-53A1368, dated February 27, 2018, and do all applicable on-condition actions including repairs using methods approved in accordance with paragraph (j) of this AD.",
+    "source_pages": [
+      3,
+      4
+    ],
+    "extraction_notes": "Applicability is limited to Model 737-800 series airplanes converted to freighter configuration using Boeing Drawing 800A0003 before April 1, 2021, and identified as Group A in the referenced Airworthiness Limitations document. The AD specifies different inspection requirements for different groups/configurations identified in Boeing Alert Service Bulletin 737-53A1368. Serial numbers are not explicitly listed but applicability is defined by the referenced documents.",
+    "source_file": "faa/2025-04319.pdf"
+  },
+  {
+    "ad_number": "2025-0349",
+    "issuing_authority": "FAA",
+    "effective_date": null,
+    "supersedes": [],
+    "applicable_models": [
+      "737-700",
+      "737-800",
+      "737-900",
+      "737-900ER",
+      "737-8",
+      "737-9"
+    ],
+    "serial_ranges": [],
+    "engine_models": [],
+    "applicability_by_reference": null,
+    "compliance_time": "Within 4 months after the effective date of this AD",
+    "required_action": "Replace lavatory bifold door latches with part numbers SC1L500031\u20133/20218\u20133, SC1L500031\u20134/20218\u20134, SC1L500031\u20135/20218\u20135/20218\u20137, or SC1L500031\u20136/20218\u20136/20218\u20138 with latches having part numbers SC1L500031\u20139/20218\u20139 or SC1L500031\u201310/20218\u201310. Prohibit installation of affected parts.",
+    "source_pages": [
+      2
+    ],
+    "extraction_notes": "This is a Notice of Proposed Rulemaking (NPRM), not a final AD. The applicability is limited to airplanes with specific lavatory bifold door latch part numbers. No effective date is stated in the document.",
+    "source_file": "faa/2025-06157.pdf"
+  },
+  {
+    "ad_number": "2025-14-07",
+    "issuing_authority": "FAA",
+    "effective_date": "2025-07-22",
+    "supersedes": [],
+    "applicable_models": [
+      "AS 350B2",
+      "AS 350B3",
+      "AS355N",
+      "AS355NP",
+      "EC 130 B4"
+    ],
+    "serial_ranges": [],
+    "engine_models": [],
+    "applicability_by_reference": "European Union Aviation Safety Agency AD 2025-0025, dated January 23, 2025",
+    "compliance_time": "As specified in EASA AD 2025-0025",
+    "required_action": "Inspect and adjust the cargo swing emergency release control cable in accordance with EASA AD 2025-0025, with clarifications on distance measurements between the ball end and manual release lever (distance B) and between the ball end and dropping control (distance C).",
+    "source_pages": [
+      1
+    ],
+    "extraction_notes": "This is a proposed rule (NPRM) that adopts EASA AD 2025-0025 by reference. The actual compliance times and detailed actions are specified in the referenced EASA AD. The FAA AD provides exceptions and clarifications to the EASA AD text. No serial number ranges are specified in the applicability section.",
+    "source_file": "faa/2025-13714.pdf"
+  },
+  {
+    "ad_number": "2025-0158R2",
+    "issuing_authority": "EASA",
+    "effective_date": "2026-07-14",
+    "supersedes": [
+      "2025-0158R1",
+      "2024-0216"
+    ],
+    "applicable_models": [
+      "A318-111",
+      "A318-112",
+      "A318-121",
+      "A318-122",
+      "A319-111",
+      "A319-112",
+      "A319-113",
+      "A319-114",
+      "A319-115",
+      "A319-131",
+      "A319-132",
+      "A319-133",
+      "A319-151N",
+      "A319-153N",
+      "A319-171N",
+      "A319-173N",
+      "A320-211",
+      "A320-212",
+      "A320-214",
+      "A320-215",
+      "A320-216",
+      "A320-231",
+      "A320-232",
+      "A320-233",
+      "A320-251N",
+      "A320-252N",
+      "A320-253N",
+      "A320-271N",
+      "A320-272N",
+      "A320-273N",
+      "A321-111",
+      "A321-112",
+      "A321-131",
+      "A321-211",
+      "A321-212",
+      "A321-213",
+      "A321-231",
+      "A321-232",
+      "A321-251N",
+      "A321-251NX",
+      "A321-252N",
+      "A321-252NX",
+      "A321-253N",
+      "A321-253NX",
+      "A321-253NY",
+      "A321-271N",
+      "A321-271NX",
+      "A321-271NY",
+      "A321-272N",
+      "A321-272NX"
+    ],
+    "serial_ranges": [],
+    "engine_models": [],
+    "applicability_by_reference": "Airbus Alert Operators Transmission (AOT) A32N033-24 Revision 02 (for affected part serial numbers in Appendix 1 Lists A and B)",
+    "compliance_time": "For Group 1 aeroplanes with affected part 1: within 8 days or 5 flight cycles (whichever occurs later) from last inspection or before next flight after 04 August 2025, then at intervals not to exceed 8 days or 5 FC. For affected part 2: within 15 days after 04 August 2025, then at intervals not to exceed 8 days or 5 FC. Replacement of affected part 1 within 12 months after 22 November 2024. Replacement of affected part 2 within 18 months after 04 August 2025. From 04 August 2025, do not install any affected part on any aeroplane.",
+    "required_action": "Inspect each affected main landing gear (MLG) door actuator (P/N 114122015 with specific serial numbers listed in AOT Appendix 1 Lists A and B) for jamming or inability to open. Replace affected parts with serviceable parts if discrepancies are detected, or accomplish X-ray inspection per VSB Revision 01 or AOT Revision 03 as an acceptable terminating action. Do not install any affected parts on any aeroplane from 04 August 2025 onwards.",
+    "source_pages": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "extraction_notes": "This is Revision 02 of AD 2025-0158, issued 07 July 2026. The affected parts are specifically MLG door actuators with P/N 114122015 having serial numbers listed in the AOT Appendix 1 Lists A and B, except those with 'PINSP' reference on the amendment plate. The applicability covers all manufacturer serial numbers (MSN) of the listed aircraft models. Group 1 aeroplanes have affected parts installed; Group 2 do not. The AD includes an acceptable method of compliance via X-ray inspection per VSB Revision 01 or AOT Revision 03 as a terminating action to repetitive inspections.",
+    "source_file": "easa/EASA_AD_2025-0158R2_1.pdf"
+  },
+  {
+    "ad_number": "2025-0237R1",
+    "issuing_authority": "EASA",
+    "effective_date": "2026-06-30",
+    "supersedes": [
+      "2025-0237",
+      "2022-0120R2"
+    ],
+    "applicable_models": [
+      "A318-111",
+      "A318-112",
+      "A318-121",
+      "A318-122",
+      "A319-111",
+      "A319-112",
+      "A319-113",
+      "A319-114",
+      "A319-115",
+      "A319-131",
+      "A319-132",
+      "A319-133",
+      "A319-151N",
+      "A319-153N",
+      "A319-171N",
+      "A319-173N",
+      "A320-211",
+      "A320-212",
+      "A320-214",
+      "A320-215",
+      "A320-216",
+      "A320-231",
+      "A320-232",
+      "A320-233",
+      "A320-251N",
+      "A320-252N",
+      "A320-253N",
+      "A320-271N",
+      "A320-272N",
+      "A320-273N",
+      "A321-111",
+      "A321-112",
+      "A321-131",
+      "A321-211",
+      "A321-212",
+      "A321-213",
+      "A321-231",
+      "A321-232",
+      "A321-251N",
+      "A321-251NX",
+      "A321-252N",
+      "A321-252NX",
+      "A321-253N",
+      "A321-253NX",
+      "A321-253NY",
+      "A321-271N",
+      "A321-271NX",
+      "A321-271NY",
+      "A321-272N",
+      "A321-272NX"
+    ],
+    "serial_ranges": [],
+    "engine_models": [],
+    "applicability_by_reference": null,
+    "compliance_time": "Before exceeding the threshold and thereafter at intervals as defined in Table 1, depending on aeroplane group and zone. Thresholds range from 19,500 flight cycles since first flight or last repair to 3 months after 10 November 2025, with inspection intervals of 500, 1000, or 2000 flight cycles depending on group and zone.",
+    "required_action": "Accomplish Special Detailed Inspection (SDI) of each zone of the 80 VU rack attachments in accordance with Airbus Service Bulletin A320-25-1BKJ Revision 04 or A320-25-1CJH Revision 01, as applicable. If discrepancies are detected, accomplish applicable corrective actions within the compliance time specified in the SB. Report inspection results to Airbus within 90 days after each SDI.",
+    "source_pages": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "extraction_notes": "This is Revision 01 of AD 2025-0237, issued as a correction on 24 June 2026 (effective 30 June 2026). The original issue was 10 November 2025. The AD applies to all manufacturer serial numbers for all listed models. Applicability is complex, divided into 5 groups based on aeroplane configuration (CEO vs NEO) and embodiment of various modifications and service bulletins. Inspection thresholds and intervals vary significantly by group and zone (A, B, C). The AD references two service bulletins: A320-25-1BKJ Revision 04 (for CEO aeroplanes, Groups 1-4) and A320-25-1CJH Revision 01 (for NEO aeroplanes, Group 5). No engine models or serial number ranges limit applicability.",
+    "source_file": "easa/EASA_AD_2025-0237R1_2.pdf"
+  },
+  {
+    "ad_number": "2025-0274R1",
+    "issuing_authority": "EASA",
+    "effective_date": "2026-07-14",
+    "supersedes": [
+      "2025-0274",
+      "2025-0253"
+    ],
+    "applicable_models": [
+      "A318-111",
+      "A318-112",
+      "A318-121",
+      "A318-122",
+      "A319-111",
+      "A319-112",
+      "A319-113",
+      "A319-114",
+      "A319-115",
+      "A319-131",
+      "A319-132",
+      "A319-133",
+      "A319-151N",
+      "A319-153N",
+      "A319-171N",
+      "A319-173N",
+      "A320-211",
+      "A320-212",
+      "A320-214",
+      "A320-215",
+      "A320-216",
+      "A320-231",
+      "A320-232",
+      "A320-233",
+      "A320-251N",
+      "A320-252N",
+      "A320-253N",
+      "A320-271N",
+      "A320-272N",
+      "A320-273N",
+      "A321-111",
+      "A321-112",
+      "A321-131",
+      "A321-211",
+      "A321-212",
+      "A321-213",
+      "A321-231",
+      "A321-232",
+      "A321-251N",
+      "A321-251NX",
+      "A321-252N",
+      "A321-252NX",
+      "A321-253N",
+      "A321-253NX",
+      "A321-253NY",
+      "A321-271N",
+      "A321-271NX",
+      "A321-271NY",
+      "A321-272N",
+      "A321-272NX"
+    ],
+    "serial_ranges": [
+      {
+        "start": 253,
+        "end": 253
+      },
+      {
+        "start": 598,
+        "end": 598
+      },
+      {
+        "start": 668,
+        "end": 668
+      },
+      {
+        "start": 677,
+        "end": 677
+      },
+      {
+        "start": 701,
+        "end": 701
+      },
+      {
+        "start": 1003,
+        "end": 1003
+      },
+      {
+        "start": 1069,
+        "end": 1069
+      },
+      {
+        "start": 1075,
+        "end": 1075
+      },
+      {
+        "start": 1103,
+        "end": 1103
+      },
+      {
+        "start": 1297,
+        "end": 1297
+      },
+      {
+        "start": 1332,
+        "end": 1332
+      },
+      {
+        "start": 1410,
+        "end": 1410
+      },
+      {
+        "start": 1413,
+        "end": 1413
+      },
+      {
+        "start": 1414,
+        "end": 1414
+      },
+      {
+        "start": 1523,
+        "end": 1523
+      },
+      {
+        "start": 1600,
+        "end": 1600
+      },
+      {
+        "start": 1601,
+        "end": 1601
+      },
+      {
+        "start": 1662,
+        "end": 1662
+      },
+      {
+        "start": 1712,
+        "end": 1712
+      },
+      {
+        "start": 1733,
+        "end": 1733
+      },
+      {
+        "start": 1788,
+        "end": 1788
+      },
+      {
+        "start": 1808,
+        "end": 1808
+      },
+      {
+        "start": 1835,
+        "end": 1835
+      },
+      {
+        "start": 1950,
+        "end": 1950
+      },
+      {
+        "start": 1971,
+        "end": 1971
+      },
+      {
+        "start": 1987,
+        "end": 1987
+      },
+      {
+        "start": 2109,
+        "end": 2109
+      },
+      {
+        "start": 2181,
+        "end": 2181
+      },
+      {
+        "start": 2335,
+        "end": 2335
+      },
+      {
+        "start": 2608,
+        "end": 2608
+      },
+      {
+        "start": 2609,
+        "end": 2609
+      },
+      {
+        "start": 2625,
+        "end": 2625
+      },
+      {
+        "start": 2627,
+        "end": 2627
+      },
+      {
+        "start": 108,
+        "end": 108
+      },
+      {
+        "start": 146,
+        "end": 146
+      },
+      {
+        "start": 152,
+        "end": 152
+      },
+      {
+        "start": 156,
+        "end": 156
+      },
+      {
+        "start": 405,
+        "end": 405
+      },
+      {
+        "start": 415,
+        "end": 415
+      },
+      {
+        "start": 488,
+        "end": 488
+      },
+      {
+        "start": 495,
+        "end": 495
+      },
+      {
+        "start": 500,
+        "end": 500
+      },
+      {
+        "start": 517,
+        "end": 517
+      },
+      {
+        "start": 564,
+        "end": 564
+      },
+      {
+        "start": 819,
+        "end": 819
+      },
+      {
+        "start": 949,
+        "end": 949
+      },
+      {
+        "start": 1145,
+        "end": 1145
+      },
+      {
+        "start": 1161,
+        "end": 1161
+      },
+      {
+        "start": 1344,
+        "end": 1344
+      },
+      {
+        "start": 1677,
+        "end": 1677
+      },
+      {
+        "start": 1767,
+        "end": 1767
+      },
+      {
+        "start": 1802,
+        "end": 1802
+      },
+      {
+        "start": 1866,
+        "end": 1866
+      },
+      {
+        "start": 1946,
+        "end": 1946
+      },
+      {
+        "start": 1955,
+        "end": 1955
+      },
+      {
+        "start": 1960,
+        "end": 1960
+      },
+      {
+        "start": 1980,
+        "end": 1980
+      },
+      {
+        "start": 2157,
+        "end": 2157
+      },
+      {
+        "start": 2191,
+        "end": 2191
+      },
+      {
+        "start": 2425,
+        "end": 2425
+      },
+      {
+        "start": 2454,
+        "end": 2454
+      },
+      {
+        "start": 2605,
+        "end": 2605
+      },
+      {
+        "start": 2674,
+        "end": 2674
+      },
+      {
+        "start": 3193,
+        "end": 3193
+      },
+      {
+        "start": 3314,
+        "end": 3314
+      },
+      {
+        "start": 3372,
+        "end": 3372
+      },
+      {
+        "start": 3403,
+        "end": 3403
+      },
+      {
+        "start": 3426,
+        "end": 3426
+      },
+      {
+        "start": 3479,
+        "end": 3479
+      },
+      {
+        "start": 3511,
+        "end": 3511
+      },
+      {
+        "start": 3674,
+        "end": 3674
+      },
+      {
+        "start": 3833,
+        "end": 3833
+      },
+      {
+        "start": 3988,
+        "end": 3988
+      },
+      {
+        "start": 4001,
+        "end": 4001
+      },
+      {
+        "start": 4035,
+        "end": 4035
+      },
+      {
+        "start": 4165,
+        "end": 4165
+      },
+      {
+        "start": 4238,
+        "end": 4238
+      },
+      {
+        "start": 4534,
+        "end": 4534
+      },
+      {
+        "start": 4624,
+        "end": 4624
+      },
+      {
+        "start": 4628,
+        "end": 4628
+      },
+      {
+        "start": 4816,
+        "end": 4816
+      },
+      {
+        "start": 4873,
+        "end": 4873
+      },
+      {
+        "start": 4905,
+        "end": 4905
+      },
+      {
+        "start": 6031,
+        "end": 6031
+      },
+      {
+        "start": 6113,
+        "end": 6113
+      },
+      {
+        "start": 6141,
+        "end": 6141
+      },
+      {
+        "start": 6353,
+        "end": 6353
+      },
+      {
+        "start": 6488,
+        "end": 6488
+      },
+      {
+        "start": 6710,
+        "end": 6710
+      },
+      {
+        "start": 6716,
+        "end": 6716
+      },
+      {
+        "start": 6732,
+        "end": 6732
+      },
+      {
+        "start": 6863,
+        "end": 6863
+      },
+      {
+        "start": 7016,
+        "end": 7016
+      },
+      {
+        "start": 7019,
+        "end": 7019
+      },
+      {
+        "start": 7067,
+        "end": 7067
+      },
+      {
+        "start": 7122,
+        "end": 7122
+      },
+      {
+        "start": 7242,
+        "end": 7242
+      },
+      {
+        "start": 7358,
+        "end": 7358
+      },
+      {
+        "start": 7413,
+        "end": 7413
+      },
+      {
+        "start": 7446,
+        "end": 7446
+      },
+      {
+        "start": 7559,
+        "end": 7559
+      },
+      {
+        "start": 7651,
+        "end": 7651
+      },
+      {
+        "start": 7693,
+        "end": 7693
+      },
+      {
+        "start": 7770,
+        "end": 7770
+      },
+      {
+        "start": 8005,
+        "end": 8005
+      },
+      {
+        "start": 9250,
+        "end": 9250
+      },
+      {
+        "start": 9347,
+        "end": 9347
+      },
+      {
+        "start": 9419,
+        "end": 9419
+      },
+      {
+        "start": 112,
+        "end": 112
+      },
+      {
+        "start": 113,
+        "end": 113
+      },
+      {
+        "start": 134,
+        "end": 134
+      },
+      {
+        "start": 136,
+        "end": 136
+      },
+      {
+        "start": 137,
+        "end": 137
+      },
+      {
+        "start": 149,
+        "end": 149
+      },
+      {
+        "start": 162,
+        "end": 162
+      },
+      {
+        "start": 167,
+        "end": 167
+      },
+      {
+        "start": 180,
+        "end": 180
+      },
+      {
+        "start": 189,
+        "end": 189
+      },
+      {
+        "start": 250,
+        "end": 250
+      },
+      {
+        "start": 377,
+        "end": 377
+      },
+      {
+        "start": 437,
+        "end": 437
+      },
+      {
+        "start": 541,
+        "end": 541
+      },
+      {
+        "start": 613,
+        "end": 613
+      },
+      {
+        "start": 620,
+        "end": 620
+      },
+      {
+        "start": 632,
+        "end": 632
+      }
+    ],
+    "engine_models": [],
+    "applicability_by_reference": null,
+    "compliance_time": "For Group 1 aeroplanes with affected parts having s/n listed in Appendix 1: replace within 6 months after 06 November 2025. For Group 1 aeroplanes with affected parts having s/n not listed in Appendix 1: inspect within 24 months after 06 November 2025. For Group 2 aeroplanes: installation requirements apply from effective date of this AD.",
+    "required_action": "Inspect and/or replace fire panels (P/N 700TS06Y, 700TS06Y10, 700TS06Y11, 700TS06Y111, 700TS06Y12, 330TS08Y, 335TS08Y00, or 335TS08Y01) in accordance with Airbus Service Bulletins A320-26-1137 or A320-26-1138 (Revision 02 or later). Do not install affected parts with s/n listed in Appendix 1 unless repaired and reinspected per requirements.",
+    "source_pages": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "extraction_notes": "This is a revision (R1) of EASA AD 2025-0274. The serial_ranges field contains all individual serial numbers listed in Appendix 1 for the affected part numbers (330TS08Y, 335TS08Y00, 335TS08Y01, 700TS06Y11, 700TS06Y12). The AD applies to all manufacturer serial numbers of the listed aircraft models, but specific actions depend on whether an affected part is installed and its serial number. Group 1 aeroplanes have affected parts installed; Group 2 aeroplanes do not. The compliance time varies by group and by whether the part s/n is listed in Appendix 1.",
+    "source_file": "easa/EASA_AD_2025-0274R1_1.pdf"
+  },
+  {
+    "ad_number": "2026-0037R1",
+    "issuing_authority": "EASA",
+    "effective_date": "2026-05-11",
+    "supersedes": [
+      "2026-0037"
+    ],
+    "applicable_models": [
+      "A318-111",
+      "A318-112",
+      "A318-121",
+      "A318-122",
+      "A319-111",
+      "A319-112",
+      "A319-113",
+      "A319-114",
+      "A319-115",
+      "A319-131",
+      "A319-132",
+      "A319-133",
+      "A319-151N",
+      "A319-153N",
+      "A319-171N",
+      "A319-173N",
+      "A320-211",
+      "A320-212",
+      "A320-214",
+      "A320-215",
+      "A320-216",
+      "A320-231",
+      "A320-232",
+      "A320-233",
+      "A320-251N",
+      "A320-252N",
+      "A320-253N",
+      "A320-271N",
+      "A320-272N",
+      "A320-273N",
+      "A321-111",
+      "A321-112",
+      "A321-131",
+      "A321-211",
+      "A321-212",
+      "A321-213",
+      "A321-231",
+      "A321-232",
+      "A321-251N",
+      "A321-251NX",
+      "A321-252N",
+      "A321-252NX",
+      "A321-253N",
+      "A321-253NX",
+      "A321-253NY",
+      "A321-271N",
+      "A321-271NX",
+      "A321-271NY",
+      "A321-272N",
+      "A321-272NX"
+    ],
+    "serial_ranges": [],
+    "engine_models": [],
+    "applicability_by_reference": null,
+    "compliance_time": "For Group 1 aeroplanes: within 36 months after 11 March 2026. For Group 2 aeroplanes: do not install affected slides after 11 March 2026.",
+    "required_action": "Replace each affected evacuation slide with a serviceable slide in accordance with Airbus Service Bulletin A320-25-1CML or A320-25-1CMM. Do not install affected slides on any aeroplane.",
+    "source_pages": [
+      1,
+      2,
+      3
+    ],
+    "extraction_notes": "This is a revision (R1) of EASA AD 2026-0037 dated 25 February 2026. The AD applies to all manufacturer serial numbers of the listed aircraft models. Affected slides are identified by part number and serial number ranges in Appendix 1 (D31516-XXX and D31517-XXX with serial numbers prior to specified limits). Affected hoses are defined as P/N 63667-101, 63667-103 (all s/n), or P/N 68906-101 with s/n below 4407. The applicability is complex, involving Group 1 and Group 2 aeroplanes based on whether affected slides are installed. Serial number ranges for affected slides are not provided as simple numeric ranges but as \"prior to\" designations for different slide part numbers.",
+    "source_file": "easa/EASA_AD_2026-0037R1_1.pdf"
+  },
+  {
+    "ad_number": "2026-0120",
+    "issuing_authority": "EASA",
+    "effective_date": "2026-07-07",
+    "supersedes": [],
+    "applicable_models": [
+      "A319-151N",
+      "A319-153N",
+      "A319-171N",
+      "A319-173N",
+      "A320-251N",
+      "A320-252N",
+      "A320-253N",
+      "A320-271N",
+      "A320-272N",
+      "A320-273N",
+      "A321-251N",
+      "A321-251NX",
+      "A321-252N",
+      "A321-252NX",
+      "A321-253N",
+      "A321-253NX",
+      "A321-271N",
+      "A321-271NX",
+      "A321-272N",
+      "A321-272NX"
+    ],
+    "serial_ranges": [],
+    "engine_models": [],
+    "applicability_by_reference": null,
+    "compliance_time": "Within compliance time as identified in Table 1 (threshold A, B, C, D, E or F, whichever occurs later), then at intervals as defined in Table 2. Threshold A: before exceeding 21,100 flight cycles since first flight; Threshold B: within 17,300 FC since accomplishment of MSB; Threshold C: within 3,150 FC after first rework; Threshold D: within 12,400 FC after second or third rework; Threshold E: within 890 FC after last accomplishment of ALI task 531105-01-2; Threshold F: within 3,150 FC after last accomplishment of ALI task 531105-02-2. Intervals per Table 2 range from 2,400 to 5,200 FC depending on part configuration.",
+    "required_action": "Accomplish repetitive High Frequency Eddy Current (HFEC) inspections of the horizontal upper stiffeners of lateral window frame at fuselage Frame 4 (both RH and LH sides) in accordance with Airbus Service Bulletin A320-53-1544 or A320-53-1545, as applicable. If discrepancies are detected, accomplish applicable corrective actions before next flight in accordance with the inspection SB or contact Airbus for repair instructions.",
+    "source_pages": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "extraction_notes": "Applicability excludes aeroplanes on which Airbus modifications 165961, 162338, or 162339 were embodied in production. The AD applies to all MSN except those with these modifications. Compliance time is complex with multiple thresholds (A-F) and intervals that vary based on part configuration and rework history. The inspection SB references are A320-53-1544 (LH side) and A320-53-1545 (RH side); modification SBs are A320-53-1546 (RH side) and A320-53-1547 (LH side).",
+    "source_file": "easa/EASA_AD_2026-0120_1.pdf"
+  },
+  {
+    "ad_number": "2026-0130",
+    "issuing_authority": "EASA",
+    "effective_date": "2026-07-20",
+    "supersedes": [
+      "2017-0161R1"
+    ],
+    "applicable_models": [
+      "A318-111",
+      "A318-112",
+      "A319-111",
+      "A319-112",
+      "A319-113",
+      "A319-114",
+      "A319-115",
+      "A319-131",
+      "A319-132",
+      "A319-133",
+      "A320-211",
+      "A320-212",
+      "A320-214",
+      "A320-215",
+      "A320-216",
+      "A320-231",
+      "A320-232",
+      "A320-233",
+      "A320-251N",
+      "A320-252N",
+      "A320-253N",
+      "A320-271N",
+      "A320-272N",
+      "A320-273N",
+      "A321-111",
+      "A321-112",
+      "A321-131",
+      "A321-211",
+      "A321-212",
+      "A321-213",
+      "A321-231",
+      "A321-232"
+    ],
+    "serial_ranges": [],
+    "engine_models": [],
+    "applicability_by_reference": null,
+    "compliance_time": "Within 4 months after the effective date for initial general visual inspection (GVI) of affected battery retaining rods, then at intervals not to exceed 4 months; before next flight after hard landing or severe turbulence; within 24 months for detailed inspection to identify manufacturer; replacement before next flight if affected parts are found.",
+    "required_action": "Accomplish repetitive general visual inspections (GVI) of battery retaining rods (Part Number D9241023700000) on Group 1 aeroplanes; within 24 months perform detailed inspection to identify manufacturer; replace affected parts with serviceable parts if \"SA\" quality marking is found, or identify with applicable label if not \"SA\" marked.",
+    "source_pages": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "extraction_notes": "The AD applies to all manufacturer serial numbers (MSN) for the listed aircraft models. Applicability is divided into Group 1 (aeroplanes with affected parts installed) and Group 2 (those without). The affected part is specifically Part Number D9241023700000 battery retaining rods, with exceptions for those without \"SA\" quality marking or those already identified with the applicable SB label. The AD references Airbus Service Bulletins A320-92-1116 Revision 02 and A320-92-1118 Revision 01 for detailed instructions.",
+    "source_file": "easa/EASA_AD_2026-0130_1.pdf"
+  },
+  {
+    "ad_number": "2026-0133",
+    "issuing_authority": "EASA",
+    "effective_date": "2026-07-22",
+    "supersedes": [],
+    "applicable_models": [
+      "A318-111",
+      "A318-112",
+      "A318-121",
+      "A318-122",
+      "A319-111",
+      "A319-112",
+      "A319-113",
+      "A319-114",
+      "A319-115",
+      "A319-131",
+      "A319-132",
+      "A319-133",
+      "A319-151N",
+      "A319-153N",
+      "A319-171N",
+      "A319-173N",
+      "A320-211",
+      "A320-212",
+      "A320-214",
+      "A320-215",
+      "A320-216",
+      "A320-231",
+      "A320-232",
+      "A320-233",
+      "A320-251N",
+      "A320-252N",
+      "A320-253N",
+      "A320-271N",
+      "A320-272N",
+      "A320-273N",
+      "A321-111",
+      "A321-112",
+      "A321-131",
+      "A321-211",
+      "A321-212",
+      "A321-213",
+      "A321-231",
+      "A321-232",
+      "A321-251N",
+      "A321-251NX",
+      "A321-252N",
+      "A321-252NX",
+      "A321-253N",
+      "A321-253NX",
+      "A321-253NY",
+      "A321-271N",
+      "A321-271NX",
+      "A321-271NY",
+      "A321-272N",
+      "A321-272NX"
+    ],
+    "serial_ranges": [],
+    "engine_models": [],
+    "applicability_by_reference": null,
+    "compliance_time": "Initial inspection compliance times vary by aircraft model and accumulated flight cycles/hours at the effective date, as defined in Table 1 (A318) or Table 2 (A319, A320, A321). Thereafter, repetitive inspections at intervals not to exceed 6,950 flight cycles or 13,900 flight hours, whichever occurs first.",
+    "required_action": "Accomplish repetitive rototest inspections of the forward pressure bulkhead hole C1 at Frame 35 (or Frame 35.8 for A321) at Stringer 30 on both left-hand and right-hand sides in accordance with the applicable inspection service bulletin. If any crack is detected, contact Airbus for approved repair instructions before next flight. Modification of the affected areas in accordance with the modification service bulletin constitutes terminating action for the repetitive inspections.",
+    "source_pages": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "extraction_notes": "The AD applies to all listed aircraft models with all manufacturer serial numbers, except those on which certain modifications (mod 39195, mod 28238, mod 28162, mod 28342, mod 162338, mod 162339, or mod 174066) were embodied in production or service. The inspection and modification service bulletins are referenced as \"as applicable\" (A320-53-1532 or A320-53-1533 for inspection; A320-53-1534 or A320-53-1535 for modification), indicating applicability depends on aircraft configuration. Compliance times are complex and depend on accumulated flight cycles/hours at the effective date, with different thresholds for A318 versus A319/A320/A321.",
+    "source_file": "easa/EASA_AD_2026-0133_1.pdf"
+  },
+  {
+    "ad_number": "2026-0134",
+    "issuing_authority": "EASA",
+    "effective_date": "2026-07-22",
+    "supersedes": [
+      "2025-0268-E"
+    ],
+    "applicable_models": [
+      "A319-111",
+      "A319-112",
+      "A319-113",
+      "A319-114",
+      "A319-115",
+      "A319-131",
+      "A319-132",
+      "A319-133",
+      "A319-151N",
+      "A319-153N",
+      "A319-171N",
+      "A319-173N",
+      "A320-211",
+      "A320-212",
+      "A320-214",
+      "A320-215",
+      "A320-216",
+      "A320-231",
+      "A320-232",
+      "A320-233",
+      "A320-251N",
+      "A320-252N",
+      "A320-253N",
+      "A320-271N",
+      "A320-272N",
+      "A320-273N",
+      "A321-211",
+      "A321-212",
+      "A321-213",
+      "A321-231",
+      "A321-232",
+      "A321-251N",
+      "A321-252N",
+      "A321-253N",
+      "A321-251NX",
+      "A321-252NX",
+      "A321-253NX",
+      "A321-271N",
+      "A321-272N",
+      "A321-271NX",
+      "A321-272NX"
+    ],
+    "serial_ranges": [],
+    "engine_models": [],
+    "applicability_by_reference": null,
+    "compliance_time": "For Group 1 aeroplanes: before next flight after 29 November 2025. For Group 2 aeroplanes: from 29 November 2025, do not modify any aeroplane into a Group 1 aeroplane. AFM update within 7 days after the effective date of this AD (22 July 2026).",
+    "required_action": "Replace or modify each affected ELAC (Elevator Aileron Computer) B L104 with a serviceable ELAC B L103+ or other eligible ELAC in accordance with Airbus AOT or Service Bulletin instructions. Do not install an affected ELAC on modified aeroplanes. Amend the Aircraft Flight Manual in accordance with Airbus FOT instructions.",
+    "source_pages": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "extraction_notes": null,
+    "source_file": "easa/EASA_AD_2026-0134_1.pdf"
+  },
+  {
+    "ad_number": "2026-0136",
+    "issuing_authority": "EASA",
+    "effective_date": "2026-07-24",
+    "supersedes": [
+      "2012-0175R2"
+    ],
+    "applicable_models": [
+      "A318-111",
+      "A318-112",
+      "A318-121",
+      "A318-122",
+      "A319-111",
+      "A319-112",
+      "A319-113",
+      "A319-114",
+      "A319-115",
+      "A319-131",
+      "A319-132",
+      "A319-133",
+      "A320-211",
+      "A320-212",
+      "A320-214",
+      "A320-215",
+      "A320-216",
+      "A320-231",
+      "A320-232",
+      "A320-233",
+      "A321-111",
+      "A321-112",
+      "A321-131",
+      "A321-211",
+      "A321-212",
+      "A321-213",
+      "A321-231",
+      "A321-232"
+    ],
+    "serial_ranges": [],
+    "engine_models": [],
+    "applicability_by_reference": null,
+    "compliance_time": "Before accumulating 22 years after THSA first flight, or within 3 months after 21 September 2012, whichever occurs later, and thereafter at intervals not exceeding 24 months for repetitive inspections. Corrective actions as defined in the Service Bulletin if corrosion is found.",
+    "required_action": "Accomplish repetitive detailed inspections of the ballscrew lower splines of affected Trimmable Horizontal Stabilizer Actuators (THSA) to detect corrosion, and perform applicable corrective actions (additional inspections and replacement) if corrosion is found. Do not install affected THSA parts unless they have not accumulated 22 years since first flight or are classified as Type 1 (no corrosion).",
+    "source_pages": [
+      1,
+      2,
+      3
+    ],
+    "extraction_notes": "Applicability is limited to aeroplanes with affected THSA parts installed (Group 1) or those without affected parts (Group 2). The affected parts are identified by Part Numbers listed in Appendix 1 of the AD. All manufacturer serial numbers are affected. The AD references Airbus Service Bulletin A320-27-1214 for detailed inspection and corrective action procedures.",
+    "source_file": "easa/EASA_AD_2026-0136_1.pdf"
+  },
+  {
+    "ad_number": "2026-0142",
+    "issuing_authority": "EASA",
+    "effective_date": "2026-08-03",
+    "supersedes": [],
+    "applicable_models": [
+      "A318-112",
+      "A319-115",
+      "A319-132",
+      "A319-133",
+      "A320-214",
+      "A320-216",
+      "A320-232",
+      "A320-233",
+      "A320-251N",
+      "A320-271N",
+      "A321-211",
+      "A321-213",
+      "A321-231",
+      "A321-251NX",
+      "A321-253NX",
+      "A321-271N",
+      "A321-271NX"
+    ],
+    "serial_ranges": [],
+    "engine_models": [],
+    "applicability_by_reference": "Airbus Alert Operators Transmission (AOT) A57N028-26",
+    "compliance_time": "Within the threshold specified in Table 1 or Table 2 (whichever occurs later), and thereafter at intervals not exceeding 500 flight cycles or 1,000 flight hours (whichever occurs first) for repetitive detailed visual inspections. Special detailed inspection (SDI) must be accomplished within the threshold specified in Table 3.",
+    "required_action": "Perform repetitive detailed visual inspections (DVI) of affected Main Landing Gear support rib 5 parts at specified intervals, and accomplish a one-time special detailed inspection (SDI) of the lug bore holes as terminating action. Report inspection results to Airbus within 90 days after the SDI or effective date, whichever is later.",
+    "source_pages": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "extraction_notes": "Applicability is limited to specific aircraft serial numbers (MSN) listed in Appendix 1 of the AD. The affected parts are Main Landing Gear support rib 5 components with specific Part Numbers and serial numbers as detailed in Appendix 1. The AD specifies different inspection thresholds by aeroplane series in Tables 1, 2, and 3. This is an interim action and further AD action may follow.",
+    "source_file": "easa/EASA_AD_2026-0142_1.pdf"
+  },
+  {
+    "ad_number": "2026-0144R1",
+    "issuing_authority": "EASA",
+    "effective_date": "2026-09-18",
+    "supersedes": [
+      "2026-0144"
+    ],
+    "applicable_models": [
+      "A320-251N",
+      "A320-252N",
+      "A321-252NX",
+      "A320-271N"
+    ],
+    "serial_ranges": [
+      {
+        "start": 12680,
+        "end": 12680
+      },
+      {
+        "start": 12729,
+        "end": 12729
+      },
+      {
+        "start": 12751,
+        "end": 12751
+      },
+      {
+        "start": 12764,
+        "end": 12764
+      },
+      {
+        "start": 12776,
+        "end": 12776
+      },
+      {
+        "start": 12852,
+        "end": 12852
+      },
+      {
+        "start": 12912,
+        "end": 12912
+      }
+    ],
+    "engine_models": [],
+    "applicability_by_reference": null,
+    "compliance_time": "Before exceeding 2,000 flight cycles or 12 months, whichever occurs first since the aeroplane reference date, or concurrently with the first rudder removal after 28 July 2026, whichever occurs first (for inspection); corrective actions within compliance time specified in the Service Bulletin if discrepancies are detected.",
+    "required_action": "Determine the serial number of the rudder within 15 days after 28 July 2026. Accomplish detailed visual inspection and woodpecker inspection of the rudder in accordance with Airbus Service Bulletin A320-55-1070 before exceeding 2,000 flight cycles or 12 months since aeroplane reference date. If discrepancies are detected, accomplish applicable corrective actions per the Service Bulletin instructions.",
+    "source_pages": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "extraction_notes": "This is a revision (R1) of EASA AD 2026-0144 dated 21 July 2026, issued to clarify compliance time for corrective actions. The AD applies only to specific aircraft MSNs (12680, 12729, 12751, 12764, 12776, 12852, 12912) with specific rudder serial numbers listed in Appendix 1. The applicability is limited to these seven individual aircraft, not all A320-251N, A320-252N, A321-252NX, and A320-271N models. Engine models are not specified as this is a structural inspection AD.",
+    "source_file": "easa/EASA_AD_2026-0144R1_1.pdf"
+  },
+  {
+    "ad_number": "2026-0176",
+    "issuing_authority": "EASA",
+    "effective_date": "2026-09-25",
+    "supersedes": [
+      "2026-0130"
+    ],
+    "applicable_models": [
+      "A318-111",
+      "A318-112",
+      "A319-111",
+      "A319-112",
+      "A319-113",
+      "A319-114",
+      "A319-115",
+      "A319-131",
+      "A319-132",
+      "A319-133",
+      "A320-211",
+      "A320-212",
+      "A320-214",
+      "A320-215",
+      "A320-216",
+      "A320-231",
+      "A320-232",
+      "A320-233",
+      "A320-251N",
+      "A320-252N",
+      "A320-253N",
+      "A320-271N",
+      "A320-272N",
+      "A320-273N",
+      "A321-111",
+      "A321-112",
+      "A321-131",
+      "A321-211",
+      "A321-212",
+      "A321-213",
+      "A321-231",
+      "A321-232",
+      "A321-251N",
+      "A321-253N",
+      "A321-271N",
+      "A321-272N",
+      "A321-251NX",
+      "A321-271NX"
+    ],
+    "serial_ranges": [],
+    "engine_models": [],
+    "applicability_by_reference": null,
+    "compliance_time": "For Group 1 aeroplanes: within 4 months after 20 July 2026 for initial GVI, then at intervals not to exceed 4 months; within 24 months after 20 July 2026 for detailed inspection of battery support assemblies and replacement of affected parts. For Group 2 aeroplanes: from effective date, installation of affected parts allowed if new and identified with label within 24 months after 20 July 2026.",
+    "required_action": "Identify and replace battery retaining rods (P/N D9241023700000) manufactured by SUDAERO or unknown supplier that have quality defects. Accomplish general visual inspections of affected parts at specified intervals, perform detailed inspection of battery support assemblies to identify manufacturer, and replace affected parts with serviceable parts or identify with label per Airbus service bulletins.",
+    "source_pages": [
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "extraction_notes": "This AD applies to all manufacturer serial numbers (MSN). The applicability is complex and involves two groups: Group 1 aeroplanes have affected parts installed (except those with Airbus modification 162321), and Group 2 aeroplanes do not. Affected parts are battery retaining rods P/N D9241023700000 manufactured by SUDAERO or unknown supplier, with specific exclusions based on quality markings and supplier P/N designations. The AD references Airbus Service Bulletins A320-92-1116 Rev. 02 and A320-92-1118 Rev. 01, and Airbus OIT 999.0096/26 for detailed identification and replacement instructions.",
+    "source_file": "easa/EASA_AD_2026-0176_1.pdf"
+  }
+]

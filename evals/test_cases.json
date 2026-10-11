@@ -1,0 +1,72 @@
+[
+  {
+    "aircraft_id": "DEMO-001",
+    "ad_number": "2024-21-09",
+    "expected": "DOES_NOT_APPLY",
+    "read": "data/faa/2024-21813.pdf pages [1, 2, 3]",
+    "note": "Document is a PROPOSED rule (NPRM, 'Comments Due Date' 12 Nov 2024; Docket FAA-2024-2315), not an AD in force. It contains no AD number: '2024-21-09' was invented during extraction."
+  },
+  {
+    "aircraft_id": "DEMO-002",
+    "ad_number": "2024-21-09",
+    "expected": "DOES_NOT_APPLY",
+    "read": "data/faa/2024-21813.pdf pages [1, 2, 3]",
+    "note": "Same NPRM as above (Docket FAA-2024-2315): proposed, not in force; AD number fabricated by extractor."
+  },
+  {
+    "aircraft_id": "DEMO-003",
+    "ad_number": "2025-0274R1",
+    "expected": "APPLIES",
+    "read": "data/easa/EASA_AD_2025-0274R1_1.pdf pages [1, 2, 3, 4, 5, 6]",
+    "note": "p.1 Applicability lists A320-214, all MSN. Actions only needed if an affected fire panel P/N is installed (fleet data has no part records)."
+  },
+  {
+    "aircraft_id": "DEMO-004",
+    "ad_number": "2025-0274R1",
+    "expected": "APPLIES",
+    "read": "data/easa/EASA_AD_2025-0274R1_1.pdf pages [1, 2, 3, 4, 5, 6]",
+    "note": "p.1 Applicability lists A320-251N, all MSN. Actions conditional on affected fire panel P/N installed."
+  },
+  {
+    "aircraft_id": "DEMO-005",
+    "ad_number": "2025-0274R1",
+    "expected": "APPLIES",
+    "read": "data/easa/EASA_AD_2025-0274R1_1.pdf pages [1, 2, 3, 4, 5, 6]",
+    "note": "p.1 Applicability lists A320-251N, all MSN (serial 12681 included). Actions conditional on affected fire panel P/N installed."
+  },
+  {
+    "aircraft_id": "DEMO-001",
+    "ad_number": "2025-05-16",
+    "expected": "CANNOT_DETERMINE",
+    "read": "data/faa/2025-04319.pdf pages [3, 4]",
+    "note": "Final rule AD 2025-05-16. (c)(1): only 737-800 converted freighters (BCF) identified as Group A in Boeing D140A006 Rev L. Fleet data does not record freighter conversion or Group."
+  },
+  {
+    "aircraft_id": "DEMO-002",
+    "ad_number": "2023-10-07",
+    "expected": "DOES_NOT_APPLY",
+    "read": "data/faa/2023-11199.pdf pages [1, 2, 3]",
+    "note": "Document is a PROPOSED rule (NPRM, Docket FAA-2023-1041), not in force. It contains no AD number: '2023-10-07' was invented during extraction."
+  },
+  {
+    "aircraft_id": "DEMO-003",
+    "ad_number": "2026-0037R1",
+    "expected": "APPLIES",
+    "read": "data/easa/EASA_AD_2026-0037R1_1.pdf pages [1, 2, 3]",
+    "note": "p.1 Applicability lists A320-214, all MSN. Actions conditional on affected inflation hose P/N/s/n installed."
+  },
+  {
+    "aircraft_id": "DEMO-004",
+    "ad_number": "2025-0237R1",
+    "expected": "APPLIES",
+    "read": "data/easa/EASA_AD_2025-0237R1_2.pdf pages [1, 2, 3, 4, 5, 6, 7]",
+    "note": "p.1 Applicability lists A320-251N, all MSN."
+  },
+  {
+    "aircraft_id": "DEMO-005",
+    "ad_number": "2026-0130",
+    "expected": "DOES_NOT_APPLY",
+    "read": "data/easa/EASA_AD_2026-0130_1.pdf pages [1, 2, 3, 4]",
+    "note": "Model A320-251N is listed, but EASA AD 2026-0176 p.1 states it supersedes 2026-0130; requirements continue under 2026-0176."
+  }
+]

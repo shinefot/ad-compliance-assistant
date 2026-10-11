@@ -1,0 +1,7 @@
+[
+  {"id": "DEMO-001", "model": "737-800", "msn": 30245, "engine": "CFM56-7B26"},
+  {"id": "DEMO-002", "model": "737-800", "msn": 41102, "engine": "CFM56-7B27"},
+  {"id": "DEMO-003", "model": "A320-214", "msn": 5678, "engine": "CFM56-5B4"},
+  {"id": "DEMO-004", "model": "A320-251N", "msn": 12680, "engine": "LEAP-1A26"},
+  {"id": "DEMO-005", "model": "A320-251N", "msn": 12681, "engine": "LEAP-1A26"}
+]
