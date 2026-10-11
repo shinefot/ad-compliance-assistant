@@ -49,8 +49,6 @@ Question + aircraft profile
 
 ## Evaluation
 
-Ground truth: hand-checked applicability for aircraft/AD pairs (`evals/test_cases.json`). Headline metric is false negatives.
-
 Ground truth: 10 aircraft/AD cases labeled from the source PDFs by an independent AI reviewer, with page-level evidence notes in `evals/test_cases.json`; 2 spot-checked by hand. Headline metric: false negatives.
 
 | Extractor prompt | False negatives | Other mismatches | Correct |
