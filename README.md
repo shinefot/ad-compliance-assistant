@@ -10,9 +10,9 @@ Airworthiness Directives are legally binding safety orders: inspect or replace a
 
 The costly error is the **false negative**: concluding an AD doesn't apply when it does. This project is designed around preventing that.
 
-## Demo
+## Sample output
 
-_Add your 2-minute screen recording link here._
+A real report for an A320-214, including rule-based verdicts, cited analysis, unresolved safety-review flags and the engineer sign-off: [evals/sample_report.md](evals/sample_report.md)
 
 ## Architecture
 
